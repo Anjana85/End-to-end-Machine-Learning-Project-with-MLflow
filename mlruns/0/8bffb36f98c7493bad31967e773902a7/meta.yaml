@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anjan/OneDrive/Desktop/Anjana/End-to-end-Machine-Learning-Project-with-MLflow/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/8bffb36f98c7493bad31967e773902a7/artifacts
+end_time: 1700064970635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bffb36f98c7493bad31967e773902a7
+run_name: languid-auk-128
+run_uuid: 8bffb36f98c7493bad31967e773902a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700064962077
+status: 3
+tags: []
+user_id: anjan
